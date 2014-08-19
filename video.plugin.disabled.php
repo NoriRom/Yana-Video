@@ -2,7 +2,7 @@
 /*
 @name video
 @author Nori
-@link https://sites.google.com/site/norirom1/ 
+@link https://github.com/NoriRom/Yana-Video 
 @licence Nori
 @version 1.0.0
 @description Plugin permettant de visionner en direct (video) par webcam
